@@ -1,0 +1,1 @@
+exercise on shell redirection
